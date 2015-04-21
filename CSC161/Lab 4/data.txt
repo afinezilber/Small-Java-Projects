@@ -1,0 +1,10 @@
+ticketPrice
+250
+100
+50
+25
+numberOfTicketsSold
+5750
+28000
+35750
+18750			  	

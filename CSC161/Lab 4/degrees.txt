@@ -1,0 +1,2 @@
+The degrees in fahrenheit is:  93.00 °
+The degrees in centigrade is:  33.89 °
